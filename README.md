@@ -74,7 +74,7 @@ http://localhost:8000
 ![Closeup](screenshots/center_ball_and_hoops_closeup.png)
 
 ### 4. View Demonstrating Camera Controls Functionality
-![Orbit Demo](screenshots/orbit_controls_demo.mp4)
+![Orbit Demo](screenshots/orbit_controls_demo.gif)
 
 ---
 
