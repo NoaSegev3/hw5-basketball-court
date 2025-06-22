@@ -16,7 +16,7 @@ This project implements the full HW05 infrastructure for a 3D interactive basket
 
 ---
 
-## How to Run (MANDATORY)
+## How to Run
 
 ```bash
 # Step 1 – Make sure Node.js (v18 or later) is installed
